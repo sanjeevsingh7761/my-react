@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        This is a React App.
+        This is an  updated React App.
       </header>
     </div>
   );
